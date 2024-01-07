@@ -60,3 +60,9 @@ Respect the following design flow:
 ## Bonus points
 - Implement your own CSV file parser instead of using a library.
 - Use design patterns.
+## Result
+Postman:
+![image](https://github.com/Saad-Elbahi/Full-Stack-Internship-Home-Assignment/assets/96077799/f98ee270-2fba-4981-89dd-072b2950ce5f)
+![image](https://github.com/Saad-Elbahi/Full-Stack-Internship-Home-Assignment/assets/96077799/e66b50e2-9800-4bee-ad32-43db0e92e240)
+
+
