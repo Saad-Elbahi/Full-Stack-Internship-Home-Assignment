@@ -36,9 +36,9 @@ class CsvParserServiceTest {
 
     private InputStream getTestCsvInputStream() throws IOException {
         String csvData = "id,employee_name,job_title,salary\n" +
-                "1,John Doe,Developer,80000.0\n" +
-                "2,Jane Smith,Tester,70000.0\n" +
-                "3,Bob Johnson,Analyst,90000.0";
+                "1,saad bnbr,Developer,20000.0\n" +
+                "2,jadlah elbahi,Tester,8500.0\n" +
+                "3,iamd ouerm,dataanalyst,90000.0";
         return new MockMultipartFile("file", "employees.csv", "text/csv", csvData.getBytes(StandardCharsets.UTF_8)).getInputStream();
     }
 }
